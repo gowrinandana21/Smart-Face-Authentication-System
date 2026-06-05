@@ -1,4 +1,4 @@
-# 🎭 Smart Face Authentication System
+#  Smart Face Authentication System
 
 An AI-powered Smart Face Authentication and Attendance Management System developed using Python, Flask, OpenCV, Face Recognition, and YOLOv8.
 
@@ -6,7 +6,7 @@ The system enables secure facial authentication, attendance tracking, blur detec
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✅ Face Registration
 
@@ -38,7 +38,7 @@ The system enables secure facial authentication, attendance tracking, blur detec
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Frontend
 
@@ -68,7 +68,7 @@ The system enables secure facial authentication, attendance tracking, blur detec
 
 ---
 
-# 🧠 System Modules
+#  System Modules
 
 ### Face Registration
 
@@ -113,7 +113,7 @@ YOLOv8 is utilized as part of the computer vision pipeline to support advanced o
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 FaceAuthSystem/
@@ -158,7 +158,7 @@ FaceAuthSystem/
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Home Page
 
@@ -202,7 +202,7 @@ FaceAuthSystem/
 
 ---
 
-# 🎥 Demo Video
+#  Demo Video
 
 Complete project demonstration:
 
@@ -213,7 +213,7 @@ http://127.0.0.1:5000
 
 
 
-# ⚙️ Installation
+#  Installation
 
 ## Clone Repository
 
@@ -252,7 +252,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 📈 Workflow
+#  Workflow
 
 1. Register User
 2. Capture Face Images
@@ -266,7 +266,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 🔒 Security Features
+#  Security Features
 
 * Face-Based Authentication
 * Blur Detection
@@ -277,7 +277,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 📊 Project Outcomes
+#  Project Outcomes
 
 * Reduced manual attendance effort
 * Improved authentication accuracy
@@ -287,7 +287,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 * Mobile Application
 * Cloud Database Integration
@@ -299,7 +299,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Gowri Nandana**
 
