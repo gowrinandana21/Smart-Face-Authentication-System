@@ -207,13 +207,9 @@ FaceAuthSystem/
 Complete project demonstration:
 
 **Demo Video Link:**
-PASTE_YOUR_SCREEN_RECORDING_LINK_HERE
+![Video](screenshots/video_project.mp4)
 
-Example:
-
-https://drive.google.com/file/d/xxxxxxxxxxxxxxxx
-
----
+http://127.0.0.1:5000
 
 # 🌐 Live Website
 
