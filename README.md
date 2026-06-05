@@ -8,33 +8,33 @@ The system enables secure facial authentication, attendance tracking, blur detec
 
 #  Features
 
-✅ Face Registration
+1. Face Registration
 
-✅ Face Recognition Authentication
+2. Face Recognition Authentication
 
-✅ Automated Attendance Management
+3. Automated Attendance Management
 
-✅ Login & Logout Tracking
+4. Login & Logout Tracking
 
-✅ Blur Detection
+5. Blur Detection
 
-✅ Face Direction Detection (Left / Right / Center)
+6. Face Direction Detection (Left / Right / Center)
 
-✅ Face Count Detection
+7. Face Count Detection
 
-✅ Multiple Face Detection Prevention
+8. Multiple Face Detection Prevention
 
-✅ Real-Time Webcam Monitoring
+9. Real-Time Webcam Monitoring
 
-✅ Attendance Dashboard
+10. Attendance Dashboard
 
-✅ Attendance Analytics & Graphs
+11. Attendance Analytics & Graphs
 
-✅ Excel Attendance Report Download
+12. Excel Attendance Report Download
 
-✅ AI-Powered Authentication
+13. AI-Powered Authentication
 
-✅ YOLOv8 Object Detection Integration
+14. YOLOv8 Object Detection Integration
 
 ---
 
