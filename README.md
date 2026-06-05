@@ -211,17 +211,7 @@ Complete project demonstration:
 
 http://127.0.0.1:5000
 
-# 🌐 Live Website
 
-Project URL:
-
-PASTE_YOUR_WEBSITE_LINK_HERE
-
-Example:
-
-https://your-project.onrender.com
-
----
 
 # ⚙️ Installation
 
@@ -299,8 +289,6 @@ http://127.0.0.1:5000
 
 # 🔮 Future Enhancements
 
-* Advanced YOLOv8 Analytics
-* Face Liveness Detection
 * Mobile Application
 * Cloud Database Integration
 * Admin Management Panel
