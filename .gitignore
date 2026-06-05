@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+logs/*.csv
+logs/*.xlsx
+
+dataset/
+
+venv/
+.env
+
+static/graph.png

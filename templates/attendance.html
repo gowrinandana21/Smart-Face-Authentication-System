@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Attendance Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+
+<h1>AI Attendance Dashboard</h1>
+
+<!-- STATS -->
+<div style="display:flex; justify-content:space-around; color:white;">
+    <div>
+        <h3>Total Users</h3>
+        <p>{{ total_users }}</p>
+    </div>
+
+    <div>
+        <h3>Total Records</h3>
+        <p>{{ total_records }}</p>
+    </div>
+</div>
+
+<!-- GRAPH -->
+<img src="/static/graph.png" style="width:100%; margin-top:20px; border-radius:10px;">
+
+<!-- TABLE -->
+<table class="attendance-table">
+    <tr>
+        <th>Name</th>
+        <th>Login Time</th>
+        <th>Logout Time</th>
+    </tr>
+
+    {% for row in records %}
+    <tr>
+        <td>{{ row[0] }}</td>
+        <td>{{ row[1] }}</td>
+        <td>{{ row[2] }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+<br>
+
+<!-- ACTIONS -->
+<a href="/refresh">
+<button>Refresh</button>
+</a>
+
+<a href="/download-excel">
+<button>Download Excel</button>
+</a>
+
+<a href="/">
+<button>Back Home</button>
+</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
