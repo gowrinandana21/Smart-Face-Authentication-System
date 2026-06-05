@@ -162,13 +162,13 @@ FaceAuthSystem/
 
 ## Home Page
 
-![Home Page](screenshots/Homepage.png)
+![Home Page](screenshots/Homepage%20.png)
 
 ---
 
 ## User Registration
 
-![Registration](screenshots/Reister_user.png)
+![Registration](screenshots/Register_user.png)
 
 ---
 
@@ -198,7 +198,7 @@ FaceAuthSystem/
 
 ## Attendance Dashboard
 
-![Dashboard](screenshots/attendance dashboard.png)
+![Dashboard](screenshots/attendance_dashboard.png)
 
 ---
 
