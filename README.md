@@ -162,43 +162,43 @@ FaceAuthSystem/
 
 ## Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Homepage.png)
 
 ---
 
 ## User Registration
 
-![Registration](screenshots/register.png)
+![Registration](screenshots/Reister_user.png)
 
 ---
 
 ## Face Authentication
 
-![Authentication](screenshots/login.png)
+![Authentication](screenshots/Face_login.png)
 
 ---
 
 ## Blur Detection
 
-![Blur Detection](screenshots/blur_detection.png)
+![Blur Detection](screenshots/blur.png)
 
 ---
 
 ## Left Face Detection
 
-![Left Detection](screenshots/left_detection.png)
+![Left Detection](screenshots/face_left.png)
 
 ---
 
 ## Right Face Detection
 
-![Right Detection](screenshots/right_detection.png)
+![Right Detection](screenshots/face_right.png)
 
 ---
 
 ## Attendance Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/attendance dashboard.png)
 
 ---
 
@@ -232,7 +232,7 @@ https://your-project.onrender.com
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-Face-Authentication-System.git
+git clone https://github.com/gowrinandana21/Smart-Face-Authentication-System.git
 ```
 
 ## Navigate to Project Folder
@@ -325,6 +325,3 @@ Model Engineering College, Kerala
 
 ---
 
-# 📜 License
-
-This project was developed for academic, educational, and research purposes.
